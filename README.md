@@ -14,3 +14,10 @@ A Spotify Hack to give users free premium without having to purchase it. Only fo
         Technology for the future!
         
 Contributers: Chemicxlkid, Break, B4nk, Elemental, Cha0s, Biohunter, and Aquarimenti
+
+Permissions|
+\\* Below are the users who will have permissions to this application once complete!
+
+Users:
+Fabian Rosales|API|:A3FD-AS8A-UFDI-ISJA
+GIo|API| :1423-GU13-GSAA-GUIG
